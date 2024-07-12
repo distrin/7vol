@@ -32,6 +32,7 @@ class Attributes extends Murizada {
         return [langs, specialities, text_editor];
     }
 }
+```
 <div style="display: flex; justify-content: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7vol&theme=tokyonight" width="30%">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7vol&theme=tokyonight" width="30%">
