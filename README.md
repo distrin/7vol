@@ -1,8 +1,4 @@
-<p align="center">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=7vol&countColor=%234a12ba" alt="Profile Views"/>
-  <img height="25" src="https://img.shields.io/github/followers/7vol?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-  <img height="25" src="https://img.shields.io/github/stars/7vol?color=4a12ba&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-</p>
+
 
 ```javascript
 class Murizada {
